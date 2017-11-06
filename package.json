@@ -1,0 +1,24 @@
+{
+  "name": "ww-parallel-coordinates",
+  "version": "1.0.0",
+  "description": "Parallel coordinates implementation as Web Component (pure HTML5)",
+  "main": "ww-parallel-coordinates.html",
+  "dependencies": {
+    "ww-core": "git+https://github.com/webwidgets/ww-core.git",
+    "d3": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webwidgets/ww-parallel-coordinates.git"
+  },
+  "author": "Donato Pirozzi",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/webwidgets/ww-parallel-coordinates/issues"
+  },
+  "homepage": "https://github.com/webwidgets/ww-parallel-coordinates#readme"
+
+}
